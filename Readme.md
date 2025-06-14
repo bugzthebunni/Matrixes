@@ -91,6 +91,7 @@ if name == "main":
 سپس کد را اجرا کنید:
 
 
-```python Matrix.py```
-
+```
+python Matrix.py
+```
 
