@@ -41,7 +41,7 @@ README.md
 
 
 برای نصب NumPy:
-
+```
 pip install numpy
 
 📂 فایل‌ها
@@ -64,6 +64,7 @@ Standard: 42.67s, Strassen: 30.29s
 
 برای مشاهده نتایج ذخیره‌شده:
 
+```
 import numpy as np
 import matplotlib.pyplot as plt
 
@@ -78,14 +79,16 @@ plt.title('مقایسه عملکرد ضرب ماتریس')
 plt.legend()
 plt.grid(True)
 plt.show()
-
+```
 ✅ اجرا
 
 اطمینان حاصل کنید که کد دارای بخش اجرای اصلی باشد:
 
+```
 if name == "main":
     ...
 
 سپس کد را اجرا کنید:
 
 python Matrix.py
+```
